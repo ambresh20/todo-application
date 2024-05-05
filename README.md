@@ -26,9 +26,11 @@ To get started with this project, follow these steps:
    git clone https://github.com/ambresh20/todo-application.git
 
 
-2. Navigate to the project directory: cd todo-app
+2. Navigate to the project directory:
+    ```bash
+    cd todo-application
 
-3. Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+4. Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
 ```bash
 npm install
